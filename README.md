@@ -1,7 +1,5 @@
 # satellite-segmentation
 
-![Map 1](img/sample1.PNG)
-![Map 2](img/sample2.PNG)
 ![Map 3](img/sample3.PNG)
 
 We take satellite images and perform multi-class segmentation. In particular, we distinguish between 7 different classes:
